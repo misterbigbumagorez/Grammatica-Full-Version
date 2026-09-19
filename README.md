@@ -238,4 +238,4 @@ This repository serves as the official landing page for Grammatica. The software
 **Get the most recent version of Grammatica today!**
 
 ---
-**Last updated:** 2026-09-19 03:24:56 UTC
+**Last updated:** 2026-09-19 08:34:51 UTC
